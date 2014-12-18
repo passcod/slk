@@ -1,0 +1,40 @@
+{
+  "name": "slk",
+  "version": "1.0.0",
+  "description": "Slack chrome-less wrapper",
+  "keywords": [
+    "node-webkit",
+    "app",
+	"slack",
+	"slackhq",
+	"chat",
+	"im"
+  ],
+  "author": "Félix Saparelli <https://passcod.name>",
+  "contributors": [
+    {
+      "name": "Félix Saparelli",
+      "email": "slk@passcod.name"
+    }
+  ],
+  "license": {
+    "type": "Public Domain",
+    "url": "https://passcod.name/PUBLIC.txt"
+  },
+  "engines": {
+    "node-webkit": ">=0.10.0"
+  },
+  "main": "app://slk/index.html",
+  "nodejs": true,
+  "single-instance": true,
+  "user-agent": "Mozilla/5.0 (%osinfo) WebKit/%webkit_ver NodeWebkit/%nwver slk/%version",
+  "window": {
+    "icon": "icon.png",
+    "toolbar": false,
+    "height": 740,
+    "width": 768,
+    "title": "Slack",
+	"position": "center",
+    "resizable": true
+  }
+}
