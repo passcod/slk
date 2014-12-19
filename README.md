@@ -2,7 +2,7 @@
 
 _Slack wrapper for use as desktop app._
 
-![Screenshot](https://stuff.passcod.name/humgur/code/slk.png)
+![Screenshot](https://i.imgur.com/D32V7Nb.png)
 
 Uses [node-webkit] to provide a single-purpose window
 onto Slack's web version.
