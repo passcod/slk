@@ -1,4 +1,5 @@
 # Maintainer: Félix Saparelli <aur@passcod.name>
+# Contributor: Tommaso Sardelli <lacapannadelloziotom@gmail.com>
 pkgname=slk
 pkgver=%version
 pkgrel=2
