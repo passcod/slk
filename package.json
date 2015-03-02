@@ -1,6 +1,6 @@
 {
   "name": "slk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Slack chrome-less wrapper",
   "keywords": [
     "node-webkit",
