@@ -1,5 +1,7 @@
 # slk
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/passcod/slk.svg)](https://greenkeeper.io/)
+
 _Slack wrapper for use as desktop app._
 
 ![Screenshot](https://i.imgur.com/D32V7Nb.png)
